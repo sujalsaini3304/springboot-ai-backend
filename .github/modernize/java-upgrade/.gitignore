@@ -1,0 +1,6 @@
+.env
+application-local.properties
+target/
+.idea/
+*.iml
+springboot-ai\springboot-ai\src\main\resources\application.properties
